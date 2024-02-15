@@ -23,7 +23,7 @@ class CronometroBotao extends StatelessWidget {
             horizontal: 30,
           ),
           textStyle: const TextStyle(
-            fontSize: 25,
+            fontSize: 20,
           )),
       onPressed: click,
       child: Row(
@@ -33,7 +33,7 @@ class CronometroBotao extends StatelessWidget {
             child: Icon(
               icone,
               color: Colors.white,
-              size: 35,
+              size: 30,
             ),
           ),
           Text(

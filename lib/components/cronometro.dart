@@ -33,6 +33,7 @@ class Cronometro extends StatelessWidget {
                   fontSize: 120,
                   color: Colors.white,
                 ),
+                textAlign: TextAlign.center,
               ),
               const SizedBox(height: 20),
               Row(
